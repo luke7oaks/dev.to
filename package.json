@@ -77,7 +77,7 @@
     "webpack-dev-server": "^2.11.3"
   },
   "dependencies": {
-    "@rails/webpacker": "^3.5.5",
+    "@rails/webpacker": "^4.0.0",
     "@webscopeio/react-textarea-autocomplete": "^2.3.4",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-preact": "^1.1.0",
@@ -90,7 +90,7 @@
     "preact-textarea-autosize": "^4.0.7",
     "prop-types": "^15.6.2",
     "pusher-js": "^4.3.1",
-    "twilio-video": "^1.14.1"
+    "twilio-video": "^2.15.0"
   },
   "husky": {
     "hooks": {
