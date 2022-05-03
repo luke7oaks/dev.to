@@ -133,7 +133,7 @@ group :test do
   gem "chromedriver-helper", "~> 2.1"
   gem "database_cleaner", "~> 1.7"
   gem "factory_bot_rails", "~> 4.11"
-  gem "fake_stripe", "~> 0.2"
+  gem "fake_stripe", "~> 0.2", ">= 0.2.0"
   gem "launchy", "~> 2.4"
   gem "pundit-matchers", "~> 1.6"
   gem "rails-controller-testing", "~> 1.0"
@@ -141,7 +141,7 @@ group :test do
   gem "selenium-webdriver", "~> 3.141"
   gem "shoulda-matchers", "~> 3.1", require: false
   gem "simplecov", "~> 0.16", require: false
-  gem "sinatra", "~> 2.0"
+  gem "sinatra", "~> 2.2", ">= 2.2.0"
   gem "stackprof", "~> 0.2", require: false, platforms: :ruby
   gem "stripe-ruby-mock", "~> 2.5", require: "stripe_mock"
   gem "test-prof", "~> 0.7"
