@@ -77,10 +77,10 @@
     "webpack-dev-server": "^2.11.3"
   },
   "dependencies": {
-    "@rails/webpacker": "^3.5.5",
+    "@rails/webpacker": "^5.2.2",
     "@webscopeio/react-textarea-autocomplete": "^2.3.4",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "babel-preset-preact": "^1.1.0",
+    "babel-preset-preact": "^2.0.0",
     "codemirror": "^5.41.0",
     "intersection-observer": "^0.5.1",
     "linkstate": "^1.1.1",
@@ -89,7 +89,7 @@
     "preact-compat": "^3.18.4",
     "preact-textarea-autosize": "^4.0.7",
     "prop-types": "^15.6.2",
-    "pusher-js": "^4.3.1",
+    "pusher-js": "^5.0.0",
     "twilio-video": "^1.14.1"
   },
   "husky": {
