@@ -15,11 +15,11 @@ end
 
 gem "actionpack-action_caching", "~> 1.2"
 gem "active_record_union", "~> 1.3"
-gem "acts-as-taggable-on", "~> 5.0"
+gem "acts-as-taggable-on", "~> 12.0", ">= 12.0.0"
 gem "acts_as_follower", github: "thepracticaldev/acts_as_follower", branch: "master"
 gem "addressable", "~> 2.5", ">= 2.5.2"
 gem "administrate", "~> 0.9"
-gem "ahoy_email", "~> 0.5"
+gem "ahoy_email", "~> 2.4", ">= 2.4.0"
 gem "airbrake", "~> 7.4"
 gem "algoliasearch-rails", "~> 1.20"
 gem "algorithmia", "~> 1.0"
