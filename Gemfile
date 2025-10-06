@@ -14,7 +14,7 @@ group :production do
 end
 
 gem "actionpack-action_caching", "~> 1.2"
-gem "active_record_union", "~> 1.3"
+gem "active_record_union", "~> 1.4", ">= 1.4.0"
 gem "acts-as-taggable-on", "~> 5.0"
 gem "acts_as_follower", github: "thepracticaldev/acts_as_follower", branch: "master"
 gem "addressable", "~> 2.5", ">= 2.5.2"
